@@ -65,16 +65,3 @@
   </a>
 </div>
 
-## 📈 Statistics
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Miguel22247&count_private=true&theme=dark&show_icons=true" alt="Miguel22247" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel22247&hide_border=true&theme=dark&show_icons=true" />
-</p>
-
-<p align="center">
-	<img width="60%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Miguel22247&theme=dark&show_icons=true" alt="Miguel22247" />
-</p>
-
-<hr />
