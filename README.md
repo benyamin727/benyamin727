@@ -9,10 +9,8 @@
 
 - 📫 How to reach me **benyaminparsa727@gmail.com**
   <a href="mailto:benyaminparsa727@gmail.com" target="blank">
-    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/benyamin727" target="blank">
-    <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
 <br />
